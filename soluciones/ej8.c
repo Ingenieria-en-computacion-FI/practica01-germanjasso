@@ -1,6 +1,15 @@
+/*
+Datos:
+base = 2000
+sizeof(int)=4
+m[1][2] = 2024
 
-#include <stdio.h>
-int main(){
-    // Resolver ejercicio 8
-    return 0;
-}
+Calcula:
+- número de columnas
+2024=2000 + (columnas +2) x 4
+24= (columnas +2 ) x 4
+6= columnas +2
+columnas = 4
+- tamaño total:
+m[2][4]= ixj = 2x4= 8
+*/
