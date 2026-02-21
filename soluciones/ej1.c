@@ -8,3 +8,5 @@ int main(){
     }
     return 0;
 }
+//2.-Calcula diferencia entre direcciones consecutivas: a[1]-a[0]= 4
+//3.- Escribe fórmula general para dirección de a[i]: Direccion= Base +(i x tamaño del tipo de dato)
