@@ -10,3 +10,7 @@ int main(){
     
     return 0;
 }
+//Explica:
+//por qué compila: porque C solo aplica la formula para guardar direcciones y simplemente lo guarda
+//por qué es peligroso: Corromper datos de otros arreglos y puede causar que el programa se cierre (Segmentation Fault)
+//qué revela sobre memoria: que la memoria es continua y lineal
