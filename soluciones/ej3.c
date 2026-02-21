@@ -20,4 +20,9 @@ int main(){
         printf("La direccion de c[%i] es: %p\n",i,&c[i]);
     }
     return 0;
-}    
+}
+/*
+2.-¿Están juntos en memoria?
+Si pero en orden diferente, porque a la hora de almacenarlos, como es memoria stack, se almacenan uno seguido del otro
+3.-¿De qué depende?
+De como la pila almacena las variables (de mayor a menor)*/
