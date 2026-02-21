@@ -11,3 +11,5 @@ int main(){
 
     return 0;
 }
+//2.-Determina si almacenamiento es por filas o columnas. Se almacena por filas
+//3.-Deduce fórmula de dirección de m[i][j]: Base + ((i x columnas)+ j ) x tamaño
